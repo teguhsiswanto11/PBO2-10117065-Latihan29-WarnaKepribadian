@@ -51,7 +51,7 @@ public class PBO210117065Latihan29WarnaKepribadian {
                         + "5. Kurang sabar,\n"
                         + "6. Dapat menahan marah namun jika sudah tahap puncak "
                         + "toleransi, kemarahannya akan sulit dikontrol,\n"
-                        + "7. Memiliki energi kehangatan dan cinta.\n"
+                        + "7. Memiliki energi kehangatan dan cinta."
                         );
                 break;
             case "HIJAU":
@@ -63,7 +63,7 @@ public class PBO210117065Latihan29WarnaKepribadian {
                         + "5. Mudah cemburu,\n"
                         + "6. Mudah merasa iri,\n"
                         + "7. Menjunjung tinggi suatu nilai toleransi dan "
-                         + "kepercayaan.\n"
+                         + "kepercayaan."
                         );
                 break;
             case "KUNING":
@@ -104,7 +104,7 @@ public class PBO210117065Latihan29WarnaKepribadian {
                         + "5. Memiliki empati yang besar,\n"
                         + "6. Memiliki sisi misterius sebab seringkali menutupi "
                         + "perasaannya,\n"
-                        + "7. Terkadang bersikap keras kepala dan angkuh.\n"
+                        + "7. Terkadang bersikap keras kepala dan angkuh."
                         );
                 break;
             default:
