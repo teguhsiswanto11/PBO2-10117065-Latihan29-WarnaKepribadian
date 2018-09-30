@@ -75,7 +75,10 @@ public class PBO210117065Latihan29WarnaKepribadian {
                         + "5. Lincah dan aktif,\n"
                         + "6. Tidak suka meremehkan kekurangan orang lain,\n"
                         + "7. Loyal,\n"
-                        + "8. Hangat."
+                        + "8. Hangat,\n"
+                        + "9. Meskipun karakternya optimis dan idealis,"
+                         + "seringkali goyah dan tidak stabil,\n"
+                        + "10. Cenderung penakut."
                         );
                 break;
             case "BIRU":
@@ -105,7 +108,7 @@ public class PBO210117065Latihan29WarnaKepribadian {
                         );
                 break;
             default:
-                System.out.println(" Tidak Ada");
+                System.out.println(" Oops.. Belum Terdefinisikan");
                 break;
         }   
     }
@@ -141,7 +144,5 @@ public class PBO210117065Latihan29WarnaKepribadian {
         System.out.println("\n====HASIL TEST KEPRIBADIAN "
                 + namaMu.toUpperCase()+"====");
         hasilTest(warnaMu);
-        
-        System.out.println(""); // beri satu baris untuk ruang kosong
     } 
 }
